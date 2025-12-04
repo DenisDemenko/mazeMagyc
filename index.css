@@ -1,0 +1,10 @@
+/* @tailwind directives removed to use CDN for stability */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1c1917; /* stone-950 */
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
