@@ -1,0 +1,12 @@
+
+{
+  "short_name": "MazeRun",
+  "name": "Maze Bridge Runner",
+  "description": "Physics-based maze game with bridges and teleports",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1c1917",
+  "background_color": "#1c1917",
+  "orientation": "portrait"
+}

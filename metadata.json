@@ -1,0 +1,5 @@
+{
+  "name": " Maze Bridge Runner for Android",
+  "description": "A physics-based maze game where you tilt your device to roll a ball. Navigate through walls and cross special suspension bridges that scale your size.",
+  "requestFramePermissions": []
+}
